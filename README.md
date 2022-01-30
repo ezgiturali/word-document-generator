@@ -6,4 +6,4 @@ There are two Excel datasets, Turkish and English. With Python, we understand wh
 
 In this process, if we get any error, we create a log file to log this error. If we don't get an error, we get a notification that the process is error-free. 
 
-Note that he data inside the "data" folder and the data outside the folder are different. 
+Note that the data inside the "data" folder and the data outside the folder are different. 
